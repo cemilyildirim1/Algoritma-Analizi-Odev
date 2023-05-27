@@ -1,1 +1,1 @@
-# Algoritma-Analizi-Odev
+# Algoritma-Analizi-Odev_2.KısaSınav_2.ÖDev
